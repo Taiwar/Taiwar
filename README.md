@@ -1,1 +1,1 @@
-<img src="resources/header.png?raw=true" alt="Taiwar header" width="100%"/>
+<img src="https://raw.githubusercontent.com/Taiwar/Taiwar/master/resources/header.png" alt="Taiwar header" width="100%"/>
